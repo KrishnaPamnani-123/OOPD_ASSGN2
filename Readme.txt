@@ -2,7 +2,7 @@
 
 This Assignment contains three C++ programs that simulate different aspects of the IIITD (Indraprastha Institute of Information Technology Delhi) administration system. Each program focuses on a specific area: Administration management, faculty management, and complaint management.
 
-## Table of Contents
+### Table of Contents
 
 1. [Program 1: Administration Management](#program-1-Administration-management)
 2. [Program 2: Faculty Management](#program-2-faculty-management)
